@@ -1,1 +1,1 @@
-Design patterns in c++, lisp and python
+Design patterns in c++.
