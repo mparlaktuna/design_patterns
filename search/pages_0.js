@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['design_20patterns_0',['Design Patterns',['../md_documentation_2main.html',1,'']]]
+  ['and_20run_20the_20code_0',['How to Build and Run the Code',['../md_documentation_2how__to__run.html',1,'']]]
 ];

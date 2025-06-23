@@ -1,0 +1,7 @@
+<map id="Product" name="Product">
+<area shape="rect" id="Node000001" title=" " alt="" coords="110,5,176,31"/>
+<area shape="rect" id="Node000002" href="$classConcreteProduct1.html" title=" " alt="" coords="5,79,131,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,44,82,81,79,77,117,40"/>
+<area shape="rect" id="Node000003" href="$classConcreteProduct2.html" title=" " alt="" coords="155,79,280,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,40,207,77,203,81,164,44"/>
+</map>
