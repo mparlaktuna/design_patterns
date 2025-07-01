@@ -39,3 +39,21 @@ It is implementing the copy constructor and using a separate function to call it
 ### Singleton
 
 This is a bad implementation. Use Meyer's singleton instead. Read more from his book explain why and add here.
+
+## Structural
+
+### Adapter
+
+Classa adapter can only be done with multiple inheritence. Should be possible with templates, and not a good approach, not scalable at all.
+
+### Bridge
+
+Looks like policy approach will improve this pattern.
+
+### Composite
+
+Looks like this cant be improved with templates. Is used for creating tree-like object structures.
+
+### Decorator
+
+Without inheritence it needs the functions implemented again. Use templates with parenting the template similar to policies.
